@@ -1,6 +1,6 @@
 package sept.ex_20092024;
 
-public class Lab068 {
+public class Lab068_if_else_conditions {
     public static void main(String[] args) {
         //conditions
         //condition - outputs

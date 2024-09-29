@@ -12,3 +12,8 @@ public class triangle_classifier {
         }
     }
 }
+
+//important //you need check for negetive sides also
+//Always talk to your interviewers and give them extra
+//Edge you need to give them and if you can handle them
+//Test validation -> special.
