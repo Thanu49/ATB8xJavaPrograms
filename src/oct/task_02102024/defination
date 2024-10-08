@@ -1,0 +1,20 @@
+1. Class and object
+* Class is an blueprint of an object.
+* It defines the properties and behaviours of an object.
+* It encapsulates data and functions into a single unit.
+* Object is an instance of a class.
+* objects are created based on the structure defined in the class.
+
+
+2. Oops and features
+
+Oops--> is a programming approach based on the concept of objects,
+*The key aim of OOP is to model real-world entities more naturally and efficiently in code.
+
+Features of oops
+
+* Encapsulation.
+* Abstraction.
+* Inheritance.
+* Polymorphism.
+* Class and Object.
